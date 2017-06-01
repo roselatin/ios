@@ -1,42 +1,14 @@
-# ios
-Downloads and mercurial IOS 
-  <?xml version="1.0" encoding="UTF-8" ?> 
-  <!DOCTYPE plist (View Source for full doctype...)> 
-- <plist version="1.0">
-- <dict>
-  <key>AD_UNIT_ID_FOR_BANNER_TEST</key> 
-  <string>ca-app-pub-3940256099942544/2934735716</string> 
-  <key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key> 
-  <string>ca-app-pub-3940256099942544/4411468910</string> 
-  <key>CLIENT_ID</key> 
-  <string>42359447253-9t3cp9lgec7mdqcumsv348v58j4rvm0t.apps.googleusercontent.com</string> 
-  <key>REVERSED_CLIENT_ID</key> 
-  <string>com.googleusercontent.apps.42359447253-9t3cp9lgec7mdqcumsv348v58j4rvm0t</string> 
-  <key>API_KEY</key> 
-  <string>AIzaSyCAwWvazN_g0gshMZOtHkBiJAQarbAD2zQ</string> 
-  <key>GCM_SENDER_ID</key> 
-  <string>42359447253</string> 
-  <key>PLIST_VERSION</key> 
-  <string>1</string> 
-  <key>BUNDLE_ID</key> 
-  <string>br.com.omegacodeapps.Mercurius</string> 
-  <key>PROJECT_ID</key> 
-  <string>api-project-42359447253</string> 
-  <key>STORAGE_BUCKET</key> 
-  <string>api-project-42359447253.appspot.com</string> 
-  <key>IS_ADS_ENABLED</key> 
-  <true /> 
-  <key>IS_ANALYTICS_ENABLED</key> 
-  <false /> 
-  <key>IS_APPINVITE_ENABLED</key> 
-  <true /> 
-  <key>IS_GCM_ENABLED</key> 
-  <true /> 
-  <key>IS_SIGNIN_ENABLED</key> 
-  <true /> 
-  <key>GOOGLE_APP_ID</key> 
-  <string>1:42359447253:ios:c44a1a026face3cb</string> 
-  <key>DATABASE_URL</key> 
-  <string>https://api-project-42359447253.firebaseio.com</string> 
-  </dict>
-  </plist>
+# ios 
+This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here using GitHub Flavored Markdown, select a template crafted by a designer, and publish. After your page is generated, you can check out the new gh-pages branch locally. If you’re using GitHub Desktop, simply sync your repository and you’ll see the new branch.
+Designer Templates
+
+We’ve crafted some handsome templates for you to use. Go ahead and click ‘Continue to layouts’ to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved.
+Creating pages manually
+
+If you prefer to not use the automatic generator, push a branch named gh-pages to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.
+Authors and Contributors
+
+You can @mention a GitHub username to generate a link to their profile. The resulting <a> element will link to the contributor’s GitHub Profile. For example: In 2007, Chris Wanstrath (@defunkt), PJ Hyett (@pjhyett), and Tom Preston-Werner (@mojombo) founded GitHub.
+Support or Contact
+
+Having trouble with Pages? Check out our documentation or contact support and we’ll help you sort it out.
