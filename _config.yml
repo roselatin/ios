@@ -1,0 +1,8 @@
+title: Ios
+description: "Downloads and mercurial IOS "
+google_analytics: UA-71737374-9
+show_downloads: true
+theme: jekyll-theme-time-machine
+
+gems:
+  - jekyll-mentions
